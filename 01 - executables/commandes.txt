@@ -1,0 +1,13 @@
+dir
+md dossier_pirate 
+dir
+cd dossier_recuperer
+adressage_ip.docx
+cd ..
+rmdir /s /q dossier_recuperer
+dir 
+cd dossier_pirate
+mettre un fichier dans dossier de chargement GRASP_1.pdf
+choisir l'option 2 chargement
+dir 
+choisir 4 pour deconnexion 

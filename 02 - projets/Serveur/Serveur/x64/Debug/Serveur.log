@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketServeur.h(82,21): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(34,12): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(49,12): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(46,1): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Serveur.vcxproj -> C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\x64\Debug\Serveur.exe

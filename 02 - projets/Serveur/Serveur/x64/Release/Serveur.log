@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketServeur.h(82,21): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(34,12): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(49,12): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\Serveur\SocketClient.h(46,1): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 393 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Serveur.vcxproj -> C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Serveur\x64\Release\Serveur.exe

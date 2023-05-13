@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\Pirate_final\SocketPirate.h(114,21): warning C4566: le caractère représenté par le nom de caractère universel '\uFFFD' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\Pirate_final\SocketPirate.h(112,1): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\Pirate_final\ChiffrTranspo.h(18,1): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\Pirate_final\ChiffrTranspo.h(65,17): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\Pirate_final\ChiffrTranspo.h(132,17): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours
+  2 of 538 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Pirate_final.vcxproj -> C:\Users\baldo\Desktop\BALJ7058609_labo#06\02 - projets\Pirate\x64\Release\Pirate_final.exe
