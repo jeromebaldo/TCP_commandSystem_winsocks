@@ -8,6 +8,11 @@ Il consiste pour un client à réaliser des commandes systèmes sur un serveur a
 
 ## II - Point de situation
 
+Actuellement le système permet les fonctionnalités suivantes :
+- téléchargement de fichiers sur le serveur 
+- chargement de fichiers depuis le serveur sur le client 
+- déclenchement 
+
 ## III - Installation et exécution de l'application
 
 ### Composition du repository
@@ -18,7 +23,7 @@ Le repository est composé de la façon suivante :
 - énoncé du projet 
 
 ### Lancement du projet
-Vous pouvez directement lancer le client et le serveur sur votre ordinateur situés dans le dossiers "01_executables". Veuillez double-cliquer d'abord sur le serveur puis sur le client. Sans l'ouverture du serveur, le client s'arrêtera automatiquement.
+Vous pouvez directement lancer le client/pirate et le serveur sur votre ordinateur situés dans le dossiers "01_executables". Veuillez double-cliquer d'abord sur le serveur puis sur le client. Sans l'ouverture du serveur, le client s'arrêtera automatiquement.
 
 Pour les projets, il suffit de naviguer dans le 
 
