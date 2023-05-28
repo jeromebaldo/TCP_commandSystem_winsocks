@@ -8,7 +8,7 @@ Il consiste pour un client à réaliser des commandes systèmes sur un serveur a
 
 ## II - Point de situation
 
-## Installation et exécution de l'application
+## III - Installation et exécution de l'application
 
 ### Composition du repository
 le repository est composé de la façon suivante : 
@@ -20,5 +20,5 @@ le repository est composé de la façon suivante :
 ### Lancement du projet
 Vous pouvez directement lancer le client et le serveur sur votre ordinateur situés dans le dossiers des exécutables 
 
-## Sources
-## Changelog
+## IV - Sources
+## V - Changelog
