@@ -1,12 +1,12 @@
 # TCP_commandSystem_winsocks
 
-## Contexte et objectifs de l'application 
+## I - Contexte et objectifs de l'application 
 
 Laboratoire réalisé dans le cadre mes cours à l'UQAC.
 Il consiste pour un client à réaliser des commandes systèmes sur un serveur ainsi qu'à déclencher le chargement et le téléchargement de fichiers.
 
 
-## Point de situation
+## II - Point de situation
 
 ## Installation et exécution de l'application
 
