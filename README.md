@@ -11,9 +11,9 @@ L'ensemble des opérations se basent sur le protocole TCP et  les sockets.
 Actuellement le système permet les fonctionnalités suivantes :
 - téléchargement de fichiers sur le serveur 
 - chargement de fichiers depuis le serveur sur le client 
-- déclenchement 
+- déclenchement des commandes systèmes sur l'ordinateur. 
 
-L'ensemble fonctionne sous windows avec les winsocks pour  gèrer les sockets. 
+L'ensemble fonctionne sous windows avec les winsocks pour  gèrer les sockets. Le laboratoire se réalise en localhost sur un système d'exploitation windows. 
 
 ## III - Installation et exécution de l'application
 
