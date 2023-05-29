@@ -27,7 +27,9 @@ Le repository est composé de la façon suivante :
 ### Lancement du projet
 Vous pouvez directement lancer le client/pirate et le serveur sur votre ordinateur situés dans le dossiers "01_executables". Veuillez double-cliquer d'abord sur le serveur puis sur le client. Sans l'ouverture du serveur, le client s'arrêtera automatiquement.
 
-Pour les projets, il suffit de naviguer dans le 
+Pour les projets, il suffit de naviguer dans le dossier "02 - projets" et de cliquer sur le fichier de type .sln.
 
 ## IV - Sources
 ## V - Changelog
+
+### V1 => version initiale
