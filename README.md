@@ -2,9 +2,9 @@
 
 ## I - Contexte et objectifs de l'application 
 
-Laboratoire réalisé dans le cadre mes cours à l'UQAC.
+Laboratoire réalisé dans le cadre de mon cours "Réseaux d'ordinateurs" délivré par l'Université du Québec à Chicoutimi.
 Il consiste pour un client à réaliser des commandes systèmes sur un serveur ainsi qu'à déclencher le chargement et le téléchargement de fichiers.
-
+L'ensemble des opérations se basent sur le protocole TCP et  les sockets. 
 
 ## II - Point de situation
 
@@ -12,6 +12,8 @@ Actuellement le système permet les fonctionnalités suivantes :
 - téléchargement de fichiers sur le serveur 
 - chargement de fichiers depuis le serveur sur le client 
 - déclenchement 
+
+L'ensemble fonctionne sous windows avec les winsocks pour  gèrer les sockets. 
 
 ## III - Installation et exécution de l'application
 
